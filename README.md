@@ -1,9 +1,10 @@
-# Welcome to my Profile 😄
-- 👋 Hi, I’m @ishanigiri
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there
+## Welcome to my Profile 😄
+- 👋 Hi, I’m @ishanigiri (pronunce ishani)
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning from software Club
+- 💞️ I like to Designe from Canva
+- 📫 Reach me through my linkedin https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
