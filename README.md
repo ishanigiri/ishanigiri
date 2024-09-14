@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning from software Club
 - 💞️ I like to Designe from Canva
 - 📫 Reach me through my linkedin https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 My hobbies is to designe diferent kind of posters
+- ⚡ Experience:
+-      1. Tution Teacher
+-      2. Social media intern
 
 <!---
 ishanigiri/ishanigiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
