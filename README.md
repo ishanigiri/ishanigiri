@@ -2,7 +2,7 @@
 ## Welcome to my Profile 😄
 ### About me
 - 👋 Hi, I’m @ishanigiri (pronunce ishani)
-- 👨‍🏫Study: 1st year student at Presidential Graduate School
+- 👨‍🏫Study: 2st year student at Presidential Graduate School
 ### My Interest
 - 👀 I’m interested in Designing
 - 🌱 I’m currently learning from software Club and youtube
